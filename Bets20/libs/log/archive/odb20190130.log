@@ -1,0 +1,897 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-01-30 16:30:43 #1 store] 
+Database 'C:\Users\jipgosaa\ownCloud\Iso-1Jon\COMUN IngSoft1\PROYECTO\18PROYECTO\Bets\Bets\resources\bets.temp' is opened by 14600@U102188
+
+[2019-01-30 16:30:43 #2 type.registry] 
+New type domain.Question
+
+[2019-01-30 16:30:43 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-01-30 16:30:43 #4 type.registry] 
+New type domain.Event
+
+[2019-01-30 16:30:43 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-01-30 16:30:43 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-01-30 16:30:43 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-01-30 16:31:48 #1 store] 
+Database 'C:\Users\jipgosaa\ownCloud\Iso-1Jon\COMUN IngSoft1\PROYECTO\18PROYECTO\Bets\Bets\resources\bets.temp' is opened by 10020@U102188
+
+[2019-01-30 16:31:48 #2 type.registry] 
+New type domain.Question
+
+[2019-01-30 16:31:48 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-01-30 16:31:48 #4 type.registry] 
+New type domain.Event
+
+[2019-01-30 16:31:48 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-01-30 16:31:48 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-01-30 16:31:48 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-01-30 16:32:40 #1 store] 
+Database 'C:\Users\jipgosaa\ownCloud\Iso-1Jon\COMUN IngSoft1\PROYECTO\18PROYECTO\Bets\Bets\resources\bets.temp' is opened by 11860@U102188
+
+[2019-01-30 16:32:40 #2 type.registry] 
+New type domain.Question
+
+[2019-01-30 16:32:40 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-01-30 16:32:40 #4 type.registry] 
+New type domain.Event
+
+[2019-01-30 16:32:40 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-01-30 16:32:40 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-01-30 16:32:41 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-01-30 16:34:52 #1 store] 
+Database 'C:\Users\jipgosaa\ownCloud\Iso-1Jon\COMUN IngSoft1\PROYECTO\18PROYECTO\Bets\Bets\resources\bets.temp' is opened by 14032@U102188
+
+[2019-01-30 16:34:52 #2 type.registry] 
+New type domain.Question
+
+[2019-01-30 16:34:52 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-01-30 16:34:52 #4 type.registry] 
+New type domain.Event
+
+[2019-01-30 16:34:52 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-01-30 16:34:52 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-01-30 16:34:52 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-01-30 16:38:14 #1 store] 
+Database 'C:\Users\jipgosaa\ownCloud\Iso-1Jon\COMUN IngSoft1\PROYECTO\18PROYECTO\Bets\Bets\resources\bets.temp' is opened by 11384@U102188
+
+[2019-01-30 16:38:14 #2 type.registry] 
+New type domain.Question
+
+[2019-01-30 16:38:14 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-01-30 16:38:14 #4 type.registry] 
+New type domain.Event
+
+[2019-01-30 16:38:14 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-01-30 16:38:15 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-01-30 16:38:15 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-01-30 16:39:06 #1 store] 
+Database 'C:\Users\jipgosaa\ownCloud\Iso-1Jon\COMUN IngSoft1\PROYECTO\18PROYECTO\Bets\Bets\resources\bets.temp' is opened by 4692@U102188
+
+[2019-01-30 16:39:06 #2 type.registry] 
+New type domain.Question
+
+[2019-01-30 16:39:06 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-01-30 16:39:06 #4 type.registry] 
+New type domain.Event
+
+[2019-01-30 16:39:06 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-01-30 16:39:06 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-01-30 16:39:06 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-01-30 16:40:54 #1 store] 
+Database 'C:\Users\jipgosaa\ownCloud\Iso-1Jon\COMUN IngSoft1\PROYECTO\18PROYECTO\Bets\Bets\resources\bets.temp' is opened by 8788@U102188
+
+[2019-01-30 16:40:55 #2 type.registry] 
+New type domain.Question
+
+[2019-01-30 16:40:55 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-01-30 16:40:55 #4 type.registry] 
+New type domain.Event
+
+[2019-01-30 16:40:55 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-01-30 16:40:55 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-01-30 16:40:55 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-01-30 17:51:35 #1 store] 
+Database 'C:\Users\jipgosaa\ownCloud\Iso-1Jon\COMUN IngSoft1\PROYECTO\18PROYECTO\Bets\Bets\resources\bets.temp' is opened by 6636@U102188
+
+[2019-01-30 17:51:36 #2 type.registry] 
+New type domain.Question
+
+[2019-01-30 17:51:36 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-01-30 17:51:36 #4 type.registry] 
+New type domain.Event
+
+[2019-01-30 17:51:36 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-01-30 17:51:36 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-01-30 17:51:36 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-01-30 17:52:06 #1 store] 
+Database 'C:\Users\jipgosaa\ownCloud\Iso-1Jon\COMUN IngSoft1\PROYECTO\18PROYECTO\Bets\Bets\resources\bets.temp' is opened by 9508@U102188
+
+[2019-01-30 17:52:07 #2 type.registry] 
+New type domain.Question
+
+[2019-01-30 17:52:07 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-01-30 17:52:07 #4 type.registry] 
+New type domain.Event
+
+[2019-01-30 17:52:07 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-01-30 17:52:07 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-01-30 17:52:07 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-01-30 17:55:43 #1 store] 
+Database 'C:\Users\jipgosaa\ownCloud\Iso-1Jon\COMUN IngSoft1\PROYECTO\18PROYECTO\Bets\Bets\resources\bets.temp' is opened by 13184@U102188
+
+[2019-01-30 17:55:44 #2 type.registry] 
+New type domain.Question
+
+[2019-01-30 17:55:44 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-01-30 17:55:44 #4 type.registry] 
+New type domain.Event
+
+[2019-01-30 17:55:44 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-01-30 17:55:44 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-01-30 17:55:44 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-01-30 17:57:10 #1 store] 
+Database 'C:\Users\jipgosaa\ownCloud\Iso-1Jon\COMUN IngSoft1\PROYECTO\18PROYECTO\Bets\Bets\resources\bets.temp' is opened by 8392@U102188
+
+[2019-01-30 17:57:10 #2 type.registry] 
+New type domain.Question
+
+[2019-01-30 17:57:10 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-01-30 17:57:10 #4 type.registry] 
+New type domain.Event
+
+[2019-01-30 17:57:10 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-01-30 17:57:10 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-01-30 17:57:10 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-01-30 17:58:47 #1 store] 
+Database 'C:\Users\jipgosaa\ownCloud\Iso-1Jon\COMUN IngSoft1\PROYECTO\18PROYECTO\Bets\Bets\resources\bets.temp' is opened by 15648@U102188
+
+[2019-01-30 17:58:48 #2 type.registry] 
+New type domain.Question
+
+[2019-01-30 17:58:48 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-01-30 17:58:48 #4 type.registry] 
+New type domain.Event
+
+[2019-01-30 17:58:48 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-01-30 17:58:48 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-01-30 17:58:48 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-01-30 18:00:22 #1 store] 
+Database 'C:\Users\jipgosaa\ownCloud\Iso-1Jon\COMUN IngSoft1\PROYECTO\18PROYECTO\Bets\Bets\resources\bets.temp' is opened by 15544@U102188
+
+[2019-01-30 18:00:22 #2 type.registry] 
+New type domain.Question
+
+[2019-01-30 18:00:22 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-01-30 18:00:22 #4 type.registry] 
+New type domain.Event
+
+[2019-01-30 18:00:22 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-01-30 18:00:22 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-01-30 18:00:22 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-01-30 18:02:40 #1 store] 
+Database 'C:\Users\jipgosaa\ownCloud\Iso-1Jon\COMUN IngSoft1\PROYECTO\18PROYECTO\Bets\Bets\resources\bets.temp' is opened by 9064@U102188
+
+[2019-01-30 18:02:40 #2 type.registry] 
+New type domain.Question
+
+[2019-01-30 18:02:40 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-01-30 18:02:40 #4 type.registry] 
+New type domain.Event
+
+[2019-01-30 18:02:40 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-01-30 18:02:40 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-01-30 18:02:40 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-01-30 18:03:10 #1 store] 
+Database 'C:\Users\jipgosaa\ownCloud\Iso-1Jon\COMUN IngSoft1\PROYECTO\18PROYECTO\Bets\Bets\resources\bets.temp' is opened by 15884@U102188
+
+[2019-01-30 18:03:10 #2 type.registry] 
+New type domain.Question
+
+[2019-01-30 18:03:10 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-01-30 18:03:10 #4 type.registry] 
+New type domain.Event
+
+[2019-01-30 18:03:10 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-01-30 18:03:10 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-01-30 18:03:10 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-01-30 18:03:30 #1 store] 
+Database 'C:\Users\jipgosaa\ownCloud\Iso-1Jon\COMUN IngSoft1\PROYECTO\18PROYECTO\Bets\Bets\resources\bets.temp' is opened by 16304@U102188
+
+[2019-01-30 18:03:30 #2 type.registry] 
+New type domain.Question
+
+[2019-01-30 18:03:30 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-01-30 18:03:30 #4 type.registry] 
+New type domain.Event
+
+[2019-01-30 18:03:30 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-01-30 18:03:30 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-01-30 18:03:30 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-01-30 18:05:49 #1 store] 
+Database 'C:\Users\jipgosaa\ownCloud\Iso-1Jon\COMUN IngSoft1\PROYECTO\18PROYECTO\Bets\Bets\resources\bets.temp' is opened by 15632@U102188
+
+[2019-01-30 18:05:49 #2 type.registry] 
+New type domain.Question
+
+[2019-01-30 18:05:49 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-01-30 18:05:49 #4 type.registry] 
+New type domain.Event
+
+[2019-01-30 18:05:49 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-01-30 18:05:49 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-01-30 18:05:49 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-01-30 18:06:14 #1 store] 
+Database 'C:\Users\jipgosaa\ownCloud\Iso-1Jon\COMUN IngSoft1\PROYECTO\18PROYECTO\Bets\Bets\resources\bets.temp' is opened by 15664@U102188
+
+[2019-01-30 18:06:15 #2 type.registry] 
+New type domain.Question
+
+[2019-01-30 18:06:15 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-01-30 18:06:15 #4 type.registry] 
+New type domain.Event
+
+[2019-01-30 18:06:15 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-01-30 18:06:15 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-01-30 18:06:15 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-01-30 18:06:44 #1 store] 
+Database 'C:\Users\jipgosaa\ownCloud\Iso-1Jon\COMUN IngSoft1\PROYECTO\18PROYECTO\Bets\Bets\resources\bets.temp' is opened by 15956@U102188
+
+[2019-01-30 18:06:45 #2 type.registry] 
+New type domain.Question
+
+[2019-01-30 18:06:45 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-01-30 18:06:45 #4 type.registry] 
+New type domain.Event
+
+[2019-01-30 18:06:45 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-01-30 18:06:45 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-01-30 18:06:45 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-01-30 18:07:15 #1 store] 
+Database 'C:\Users\jipgosaa\ownCloud\Iso-1Jon\COMUN IngSoft1\PROYECTO\18PROYECTO\Bets\Bets\resources\bets.temp' is opened by 7620@U102188
+
+[2019-01-30 18:07:16 #2 type.registry] 
+New type domain.Question
+
+[2019-01-30 18:07:16 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-01-30 18:07:16 #4 type.registry] 
+New type domain.Event
+
+[2019-01-30 18:07:16 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-01-30 18:07:16 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-01-30 18:07:16 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-01-30 18:22:03 #1 store] 
+Database 'C:\Users\jipgosaa\ownCloud\Iso-1Jon\COMUN IngSoft1\PROYECTO\18PROYECTO\Bets\Bets\resources\bets.temp' is opened by 14640@U102188
+
+[2019-01-30 18:22:03 #2 type.registry] 
+New type domain.Question
+
+[2019-01-30 18:22:03 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-01-30 18:22:03 #4 type.registry] 
+New type domain.Event
+
+[2019-01-30 18:22:03 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-01-30 18:22:03 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-01-30 18:22:03 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-01-30 18:22:57 #1 store] 
+Database 'C:\Users\jipgosaa\ownCloud\Iso-1Jon\COMUN IngSoft1\PROYECTO\18PROYECTO\Bets\Bets\resources\bets.temp' is opened by 11016@U102188
+
+[2019-01-30 18:22:57 #2 type.registry] 
+New type domain.Question
+
+[2019-01-30 18:22:57 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-01-30 18:22:57 #4 type.registry] 
+New type domain.Event
+
+[2019-01-30 18:22:57 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-01-30 18:22:57 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-01-30 18:22:57 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-01-30 18:26:36 #1 store] 
+Database 'C:\Users\jipgosaa\ownCloud\Iso-1Jon\COMUN IngSoft1\PROYECTO\18PROYECTO\Bets\Bets\resources\bets.temp' is opened by 4432@U102188
+
+[2019-01-30 18:26:36 #2 type.registry] 
+New type domain.Question
+
+[2019-01-30 18:26:36 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-01-30 18:26:36 #4 type.registry] 
+New type domain.Event
+
+[2019-01-30 18:26:36 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-01-30 18:26:36 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-01-30 18:26:36 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-01-30 18:28:29 #1 store] 
+Database 'C:\Users\jipgosaa\ownCloud\Iso-1Jon\COMUN IngSoft1\PROYECTO\18PROYECTO\Bets\Bets\resources\bets.temp' is opened by 10192@U102188
+
+[2019-01-30 18:28:29 #2 type.registry] 
+New type domain.Question
+
+[2019-01-30 18:28:29 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-01-30 18:28:29 #4 type.registry] 
+New type domain.Event
+
+[2019-01-30 18:28:29 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-01-30 18:28:29 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-01-30 18:28:29 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-01-30 18:32:14 #1 store] 
+Database 'C:\Users\jipgosaa\ownCloud\Iso-1Jon\COMUN IngSoft1\PROYECTO\18PROYECTO\Bets\Bets\resources\bets.temp' is opened by 8784@U102188
+
+[2019-01-30 18:32:14 #2 type.registry] 
+New type domain.Question
+
+[2019-01-30 18:32:14 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-01-30 18:32:15 #4 type.registry] 
+New type domain.Event
+
+[2019-01-30 18:32:15 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-01-30 18:32:15 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-01-30 18:32:15 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-01-30 18:32:50 #1 store] 
+Database 'C:\Users\jipgosaa\ownCloud\Iso-1Jon\COMUN IngSoft1\PROYECTO\18PROYECTO\Bets\Bets\resources\bets.temp' is opened by 16008@U102188
+
+[2019-01-30 18:32:50 #2 type.registry] 
+New type domain.Question
+
+[2019-01-30 18:32:50 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-01-30 18:32:50 #4 type.registry] 
+New type domain.Event
+
+[2019-01-30 18:32:50 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-01-30 18:32:51 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-01-30 18:32:51 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-01-30 18:35:35 #1 store] 
+Database 'C:\Users\jipgosaa\ownCloud\Iso-1Jon\COMUN IngSoft1\PROYECTO\18PROYECTO\Bets\Bets\resources\bets.temp' is opened by 15444@U102188
+
+[2019-01-30 18:35:35 #2 type.registry] 
+New type domain.Question
+
+[2019-01-30 18:35:35 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-01-30 18:35:35 #4 type.registry] 
+New type domain.Event
+
+[2019-01-30 18:35:35 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-01-30 18:35:35 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-01-30 18:35:35 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-01-30 18:38:30 #1 store] 
+Database 'C:\Users\jipgosaa\ownCloud\Iso-1Jon\COMUN IngSoft1\PROYECTO\18PROYECTO\Bets\Bets\resources\bets.temp' is opened by 15392@U102188
+
+[2019-01-30 18:38:31 #2 type.registry] 
+New type domain.Question
+
+[2019-01-30 18:38:31 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-01-30 18:38:31 #4 type.registry] 
+New type domain.Event
+
+[2019-01-30 18:38:31 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-01-30 18:38:31 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-01-30 18:38:31 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-01-30 22:55:27 #1 store] 
+Database 'C:\Users\jipgosaa\ownCloud\Iso-1Jon\COMUN IngSoft1\PROYECTO\18PROYECTO\Bets\Bets\resources\bets.temp' is opened by 6064@U102188
+
+[2019-01-30 22:55:28 #2 type.registry] 
+New type domain.Question
+
+[2019-01-30 22:55:28 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-01-30 22:55:28 #4 type.registry] 
+New type domain.Event
+
+[2019-01-30 22:55:28 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-01-30 22:55:28 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-01-30 22:55:28 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-01-30 23:09:48 #1 store] 
+Database 'C:\Users\jipgosaa\ownCloud\Iso-1Jon\COMUN IngSoft1\PROYECTO\18PROYECTO\Bets\Bets\resources\bets.temp' is opened by 15164@U102188
+
+[2019-01-30 23:09:48 #2 type.registry] 
+New type domain.Question
+
+[2019-01-30 23:09:48 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-01-30 23:09:48 #4 type.registry] 
+New type domain.Event
+
+[2019-01-30 23:09:48 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-01-30 23:09:48 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-01-30 23:09:48 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-01-30 23:37:06 #1 store] 
+Database 'C:\Users\jipgosaa\ownCloud\Iso-1Jon\COMUN IngSoft1\PROYECTO\18PROYECTO\Bets\Bets\resources\bets.temp' is opened by 8800@U102188
+
+[2019-01-30 23:37:07 #2 type.registry] 
+New type domain.Question
+
+[2019-01-30 23:37:07 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-01-30 23:37:07 #4 type.registry] 
+New type domain.Event
+
+[2019-01-30 23:37:07 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-01-30 23:37:07 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-01-30 23:37:07 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-01-30 23:44:21 #1 store] 
+Database 'C:\Users\jipgosaa\ownCloud\Iso-1Jon\COMUN IngSoft1\PROYECTO\18PROYECTO\Bets\Bets\resources\bets.temp' is opened by 4524@U102188
+
+[2019-01-30 23:44:21 #2 type.registry] 
+New type domain.Question
+
+[2019-01-30 23:44:21 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-01-30 23:44:21 #4 type.registry] 
+New type domain.Event
+
+[2019-01-30 23:44:21 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-01-30 23:44:21 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-01-30 23:44:21 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-01-30 23:47:44 #1 store] 
+Database 'C:\Users\jipgosaa\ownCloud\Iso-1Jon\COMUN IngSoft1\PROYECTO\18PROYECTO\Bets\Bets\resources\bets.temp' is opened by 13624@U102188
+
+[2019-01-30 23:47:44 #2 type.registry] 
+New type domain.Question
+
+[2019-01-30 23:47:44 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-01-30 23:47:44 #4 type.registry] 
+New type domain.Event
+
+[2019-01-30 23:47:44 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-01-30 23:47:45 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-01-30 23:47:45 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-01-30 23:49:01 #1 store] 
+Database 'C:\Users\jipgosaa\ownCloud\Iso-1Jon\COMUN IngSoft1\PROYECTO\18PROYECTO\Bets\Bets\resources\bets.temp' is opened by 12648@U102188
+
+[2019-01-30 23:49:02 #2 type.registry] 
+New type domain.Question
+
+[2019-01-30 23:49:02 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-01-30 23:49:02 #4 type.registry] 
+New type domain.Event
+
+[2019-01-30 23:49:02 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-01-30 23:49:02 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-01-30 23:49:02 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-01-30 23:51:10 #1 store] 
+Database 'C:\Users\jipgosaa\ownCloud\Iso-1Jon\COMUN IngSoft1\PROYECTO\18PROYECTO\Bets\Bets\resources\bets.temp' is opened by 4996@U102188
+
+[2019-01-30 23:51:11 #2 type.registry] 
+New type domain.Question
+
+[2019-01-30 23:51:11 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-01-30 23:51:11 #4 type.registry] 
+New type domain.Event
+
+[2019-01-30 23:51:11 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-01-30 23:51:11 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-01-30 23:51:11 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-01-30 23:52:52 #1 store] 
+Database 'C:\Users\jipgosaa\ownCloud\Iso-1Jon\COMUN IngSoft1\PROYECTO\18PROYECTO\Bets\Bets\resources\bets.temp' is opened by 15688@U102188
+
+[2019-01-30 23:52:52 #2 type.registry] 
+New type domain.Question
+
+[2019-01-30 23:52:52 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-01-30 23:52:52 #4 type.registry] 
+New type domain.Event
+
+[2019-01-30 23:52:52 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-01-30 23:52:52 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-01-30 23:52:52 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-01-30 23:56:33 #1 store] 
+Database 'C:\Users\jipgosaa\ownCloud\Iso-1Jon\COMUN IngSoft1\PROYECTO\18PROYECTO\Bets\Bets\resources\bets.temp' is opened by 13972@U102188
+
+[2019-01-30 23:56:33 #2 type.registry] 
+New type domain.Question
+
+[2019-01-30 23:56:33 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-01-30 23:56:33 #4 type.registry] 
+New type domain.Event
+
+[2019-01-30 23:56:33 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-01-30 23:56:33 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-01-30 23:56:33 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-01-30 23:57:35 #1 store] 
+Database 'C:\Users\jipgosaa\ownCloud\Iso-1Jon\COMUN IngSoft1\PROYECTO\18PROYECTO\Bets\Bets\resources\bets.temp' is opened by 12568@U102188
+
+[2019-01-30 23:57:36 #2 type.registry] 
+New type domain.Question
+
+[2019-01-30 23:57:36 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-01-30 23:57:36 #4 type.registry] 
+New type domain.Event
+
+[2019-01-30 23:57:36 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-01-30 23:57:36 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-01-30 23:57:36 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-01-30 23:59:12 #1 store] 
+Database 'C:\Users\jipgosaa\ownCloud\Iso-1Jon\COMUN IngSoft1\PROYECTO\18PROYECTO\Bets\Bets\resources\bets.temp' is opened by 10800@U102188
+
+[2019-01-30 23:59:13 #2 type.registry] 
+New type domain.Question
+
+[2019-01-30 23:59:13 #3 type] 
+Type domain.Question is not enhanced.
+
+[2019-01-30 23:59:13 #4 type.registry] 
+New type domain.Event
+
+[2019-01-30 23:59:13 #5 type] 
+Type domain.Event is not enhanced.
+
+[2019-01-30 23:59:13 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2019-01-30 23:59:13 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+

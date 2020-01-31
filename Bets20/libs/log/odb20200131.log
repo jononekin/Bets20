@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-01-31 10:33:47 #1 store] 
+Database '/Users/joniturrioz/eclipse-workspace/Bets20/resources/bets.temp' is opened by 7857@despacho.local
+
+[2020-01-31 10:33:47 #2 type.registry] 
+New type domain.Question
+
+[2020-01-31 10:33:47 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-01-31 10:33:47 #4 type.registry] 
+New type domain.Event
+
+[2020-01-31 10:33:47 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-01-31 10:33:47 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-01-31 10:33:47 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
